@@ -1,6 +1,6 @@
 # Olá, eu sou o Yan Pereira 👋
 
-**Especialista em Dados, Desenvolvimento Web e Inteligência Artificial**
+**Engenheiro de Dados e Inteligência Artificial**
 
 Ajudo empresas a transformarem dados brutos em decisões estratégicas. Tenho forte atuação na construção de arquiteturas de dados escaláveis, pipelines ETL/ELT eficientes e soluções de Business Intelligence, sempre conectando tecnologia com visão de negócios.
 
