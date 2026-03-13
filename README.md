@@ -1,64 +1,58 @@
-# Olá, eu sou o Yan Pereira 👋
+## Olá, eu sou o Yan Pereira 👋
 
-**Engenheiro de Dados e Inteligência Artificial**
+Sou um Especialista em Dados, Desenvolvimento Web e Inteligência Artificial focado em transformar negócios com soluções escaláveis e inteligentes.
 
-Ajudo empresas a transformarem dados brutos em decisões estratégicas. Tenho forte atuação na construção de arquiteturas de dados escaláveis, pipelines ETL/ELT eficientes e soluções de Business Intelligence, sempre conectando tecnologia com visão de negócios.
+### Principais habilidades:
 
-### 🚀 O que eu faço
-- **Engenharia de Dados:** Arquitetura de data lakes/warehouses, modelagem de dados e pipelines automatizados.
-- **Data Analytics & BI:** Criação de dashboards interativos e métricas que guiam o negócio.
-- **Desenvolvimento de IA:** Criação de aplicações web integradas a fluxos de dados e inteligência artificial.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-**Linguagens**
-- Python | JavaScript | SQL
-
-**Análise Avançada, Estatística & IA**
-- Pandas | NumPy | SciPy | Scikit-learn | LangChain | TensorFlow | PyTorch
-
-**Desenvolvimento de APIs & Integrações**
-- REST APIs | FastAPI | Requests
-
-**Engenharia de Dados**
--- Microsoft Fabric | Databricks
-
-**Banco de Dados, Cloud & Storage**
-- GCP | AWS S3 | Azure | PostgreSQL | MySQL | Oracle | SQL Server
-
-**Automação e Orquestração de Dados**
-- Airflow | Dagster | Kestra | n8n
-
-**Visualização de Dados (BI)**
-- Power BI | Tableau | Metabase
-
-**Desenvolvimento Web & Infraestrutura**
-- React | Vite | EasyPanel
-  
----
-
-### 📈 Projetos em Destaque
-
-* **[Pipeline de Dados Moderno com Orquestração Avançada]** * **O que é:** Arquitetura escalável para ingestão, armazenamento em Data Lake e processamento de dados brutos, transformando-os em tabelas analíticas otimizadas.
-  * **Stack:** Python, MinIO (Object Storage), Dagster (Orquestração) e SQL.
-  * **Impacto:** Automação completa de fluxos complexos de ETL/ELT, garantindo governança, resiliência e disponibilidade diária e confiável das informações para a área de negócios.
-
-* **[Plataforma Analítica Corporativa e BI]**
-  * **O que é:** Solução de ponta a ponta para consolidação de dados críticos de negócios (como gestão de bases de contratos e faturamento) em um ambiente unificado de alta performance.
-  * **Stack:** Microsoft Fabric, SQL e Power BI.
-  * **Impacto:** Centralização das métricas da empresa em dashboards dinâmicos, substituindo processos manuais por tomadas de decisão baseadas em dados atualizados em tempo real.
-
-* **[Aplicação Web Orientada a Dados]**
-  * **O que é:** Desenvolvimento de uma interface interativa e escalável para consumo, gestão e visualização de dados operacionais integrados em nuvem.
-  * **Stack:** React, Vite, Supabase, Python e infraestrutura via EasyPanel.
-  * **Impacto:** Entrega de um produto acessível e de alta performance diretamente para o usuário final, unindo o melhor da engenharia de dados com o desenvolvimento web full-stack.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS" />
+</p>
 
 ---
 
-### 📫 Como me encontrar
+### Minhas Estatísticas do GitHub
 
-- 💼 **Site/Consultoria:** [consultoria.dadosinterativos.com.br](https://consultoria.dadosinterativos.com.br)
-- ✉️ **E-mail:** yan@dadosinterativos.com.br
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/yan-pereira--/
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yanpereira&show_icons=true&theme=dark" alt="yanpereira GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanpereira&layout=compact&theme=dark" alt="yanpereira Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanpereira&theme=dark" alt="yanpereira Contribution Streak" />
+</p>
+
+---
+
+### Contato
+
+<p align="left">
+  <a href="mailto:yan@dadosinterativos.com.br">
+    <img src="https://img.shields.io/badge/E_mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/yan-pereira-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://consultoria.dadosinterativos.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Site-FFB347?style=for-the-badge&logo=linktree&logoColor=white" alt="Site" />
+  </a>
+</p>
