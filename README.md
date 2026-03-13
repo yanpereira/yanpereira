@@ -51,7 +51,7 @@ Ajudo empresas a transformarem dados brutos em decisões estratégicas. Tenho fo
   <a href="mailto:yan@dadosinterativos.com.br">
     <img src="https://img.shields.io/badge/E_mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/yan-pereira-/" target="_blank">
+  <a href="https://www.linkedin.com/in/yan-pereira--/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://consultoria.dadosinterativos.com.br" target="_blank">
