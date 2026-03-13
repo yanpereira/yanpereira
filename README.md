@@ -7,27 +7,36 @@ Ajudo empresas a transformarem dados brutos em decisões estratégicas. Tenho fo
 ### 🚀 O que eu faço
 - **Engenharia de Dados:** Arquitetura de data lakes/warehouses, modelagem de dados e pipelines automatizados.
 - **Data Analytics & BI:** Criação de dashboards interativos e métricas que guiam o negócio.
-- **Desenvolvimento Full Stack & IA:** Criação de aplicações web integradas a fluxos de dados e inteligência artificial.
+- **Desenvolvimento de IA:** Criação de aplicações web integradas a fluxos de dados e inteligência artificial.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Linguagens & Banco de Dados**
-- Python | SQL
+**Linguagens**
+- Python | JavaScript | SQL
 
-**Engenharia de Dados, Cloud & Storage**
-- Microsoft Fabric | AWS S3 | MinIO | Supabase
+**Análise Avançada, Estatística & IA**
+- Pandas | NumPy | SciPy | Scikit-learn | LangChain | TensorFlow | PyTorch
 
-**Orquestração de Dados**
-- Dagster | Kestra
+**Desenvolvimento de APIs & Integrações**
+- REST APIs | FastAPI | Requests
+
+**Engenharia de Dados**
+-- Microsoft Fabric | Databricks
+
+**Banco de Dados, Cloud & Storage**
+- GCP | AWS S3 | Azure | PostgreSQL | MySQL | Oracle | SQL Server
+
+**Automação e Orquestração de Dados**
+- Airflow | Dagster | Kestra | n8n
 
 **Visualização de Dados (BI)**
-- Power BI
+- Power BI | Tableau | Metabase
 
 **Desenvolvimento Web & Infraestrutura**
-- React | Vite | EasyPanel 
-
+- React | Vite | EasyPanel
+  
 ---
 
 ### 📈 Projetos em Destaque
