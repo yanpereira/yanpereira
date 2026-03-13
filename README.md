@@ -36,25 +36,7 @@ Ajudo empresas a transformarem dados brutos em decisões estratégicas. Tenho fo
 
 ---
 
-### 📈 Projetos em Destaque
-
-* **[Pipeline de Dados Moderno com Orquestração Avançada]** * **O que é:** Arquitetura escalável para ingestão, armazenamento em Data Lake e processamento de dados brutos, transformando-os em tabelas analíticas otimizadas.
-  * **Stack:** Python, MinIO, Dagster e SQL.
-  * **Impacto:** Automação completa de fluxos complexos de ETL/ELT, garantindo governança e disponibilidade diária e confiável das informações para a área de negócios.
-
-* **[Plataforma Analítica Corporativa e BI]**
-  * **O que é:** Solução de ponta a ponta para consolidação de dados críticos de negócios em um ambiente unificado de alta performance.
-  * **Stack:** Microsoft Fabric, SQL e Power BI.
-  * **Impacto:** Centralização das métricas da empresa em dashboards dinâmicos, substituindo processos manuais por tomadas de decisão baseadas em dados atualizados.
-
-* **[Aplicação Web Orientada a Dados]**
-  * **O que é:** Desenvolvimento de uma interface interativa e escalável para consumo, gestão e visualização de dados operacionais integrados em nuvem.
-  * **Stack:** React, Vite, Supabase, Python (FastAPI) e EasyPanel.
-  * **Impacto:** Entrega de um produto acessível e de alta performance diretamente para o usuário final, unindo engenharia de dados com desenvolvimento web.
-
----
-
-### 📊 Minhas Estatísticas
+### 📊 Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yanpereira&show_icons=true&theme=dark" alt="Estatísticas do Yan" />
